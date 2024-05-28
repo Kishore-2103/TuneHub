@@ -1,6 +1,6 @@
 Tune Hub application provides user friendly interface and robust backend to play and manage songs in an interactive and efficient way using Spring Boot Framework.
 
-> This Application has two roles 1.Admin 2.User
+-> This Application has two roles 1.Admin 2.User
 
 ROLES OF ADMIN:
   * Admin can Create new Playlist.
